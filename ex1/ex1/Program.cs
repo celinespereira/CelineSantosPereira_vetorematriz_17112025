@@ -1,28 +1,31 @@
 ﻿using System;
 
-namespace MyApp
+class Program
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        char[] letras = new char[10];
+
+        Console.WriteLine("Digite 10 letras para formar uma palavra:");
+
+        for (int i = 0; i < letras.Length; i++)
         {
-            string[] nomes = new string[10];
-            int i;
-
-            for (i = 0; i < 10; i++)
-            {
-                Console.Write("Digite o {0}º nome: ", i + 1);
-                nomes[i] = Console.ReadLine();
-            }
-
+            Console.Write($"Letra {i + 1}: ");
+            letras[i] = Console.ReadKey().KeyChar;
             Console.WriteLine();
-
-            for (i = 0; i < 10; i++)
-            {
-                Console.WriteLine("{0}º nome:{1} ", i + 1, nomes[i]);
-            }
-
-            Console.ReadKey();
         }
+
+        string palavra = new string(letras);
+
+        Console.WriteLine("\nPalavra em uma linha");
+        Console.WriteLine(palavra);
+
+        Console.WriteLine("\nPalavra em várias linhas");
+        for (int i = 0; i < letras.Length; i++)
+        {
+            Console.WriteLine(letras[i]);
+        }
+
+        Console.WriteLine("\nFim!");
     }
 }

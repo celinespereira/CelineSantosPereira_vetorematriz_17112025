@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Nova pasta\\ex1\\ex1\\ex1.csproj": {}
+    "C:\\Users\\user\\Desktop\\24-11\\ex1\\ex1\\ex1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Nova pasta\\ex1\\ex1\\ex1.csproj": {
+    "C:\\Users\\user\\Desktop\\24-11\\ex1\\ex1\\ex1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Nova pasta\\ex1\\ex1\\ex1.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\24-11\\ex1\\ex1\\ex1.csproj",
         "projectName": "ex1",
-        "projectPath": "C:\\Users\\user\\Desktop\\Nova pasta\\ex1\\ex1\\ex1.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\24-11\\ex1\\ex1\\ex1.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Nova pasta\\ex1\\ex1\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\24-11\\ex1\\ex1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
