@@ -4,7 +4,19 @@ Este repositório reúne as atividades desenvolvidas durante as aulas, com o obj
 
 ## Conteúdo
 
-- 12 exercícios propostos em sala de aula.
+ex1	- Lê 10 letras digitadas pelo usuário, forma uma palavra e a exibe completa e letra por letra.
+
+ex2	- Permite informar o tamanho da palavra, lê as letras, monta a palavra e a exibe completa e em linhas separadas.
+
+ex2b2	- Solicita o cadastro de 10 nomes e os armazena em um vetor.
+
+ex3	- Cria uma palavra a partir das letras digitadas e permite ao usuário tentar adivinhar uma letra em até três tentativas.
+
+Ex3	- Recebe uma palavra e exibe apenas as vogais presentes nela.
+
+ex4	- Calcula e exibe os valores correspondentes de 1 a 10 salários mínimos utilizando um vetor.
+
+ex5	- Cadastra 10 times de futebol em u
 
 ## Objetivos
 
